@@ -100,7 +100,7 @@ HELP_11 = """
 **v :** Video play için kullanılır.
 **force :** Zorla oynatma için kullanılır.
 
-/play , /vplay veya /oynat veya /voynat : Video sohbetinde istenilen parçayı çalmaya başlar.
+/oynat , /voynat veya /oynat veya /voynat : Video sohbetinde istenilen parçayı çalmaya başlar.
 
 /playforce veya /vplayforce : Devam eden yayını durdurur ve istenilen parçayı çalmaya başlar.
 """
